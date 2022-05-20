@@ -1,4 +1,4 @@
-#datatype measurement,tag,double
+measurement,tag,double
 lobby,host,temp
 lobby,host,73.77
 lobby,host,73.77
